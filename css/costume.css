@@ -1,0 +1,323 @@
+body, html
+	{
+		background-color: #1560BD;
+		height: 100%;
+	}
+
+.navbar
+	{
+		
+		background-color: #1560BD;
+		padding: 40px 0px;
+	}
+
+ul
+	{
+		margin-left: 30%;
+	}
+
+li
+	{
+		padding: 0px 60px;
+	}
+
+.nav-item a:link
+	{
+		text-decoration: none;
+	}
+
+.nav-item a 
+	{
+		color: #85AAD9;
+		font-family: "Quicksand", sans-serif;
+		font-weight: 600;
+		font-size: 18px;
+		transition-duration: 0.4s;
+	}
+
+.nav-item a:hover
+	{
+		color: #FF8F27;
+	}
+
+#judul
+	{
+		color: #f5f5f5;
+		font-family: "Quicksand", sans-serif;
+		font-weight: 700;
+		font-size: 55px;
+	}
+
+#sub-judul
+	{
+		color: #f5f5f5;
+		font-family: "Quicksand", sans-serif;
+		font-weight: 500;
+		font-size: 100%;
+		padding-top: 3%;
+		padding-bottom: 3%;
+		padding-right: 5%;
+	}
+
+#head2
+	{
+		margin-top: 5%;
+		color: #f5f5f5;
+		font-family: "Quicksand", sans-serif;
+		font-weight: 700;
+		font-size: 35px;
+		margin-bottom: 8%;
+		text-align: center;
+		width: 40%;
+	}
+
+#judul1
+	{
+		color: #f5f5f5;
+		font-family: "Quicksand", sans-serif;
+		font-weight: 300;
+		font-size: 15px;
+	}
+
+#judul2
+	{
+		color: #f5f5f5;
+		font-family: "Quicksand", sans-serif;
+		font-weight: 300;
+		font-size: 15px;
+	}
+
+#sub-judul1 select
+	{
+		color: #f5f5f5;
+		font-family: "Quicksand", sans-serif;
+		font-weight: 700;
+		font-size: 20px;
+		padding: 10px 10px;
+		border: 0px;
+		background-color: #1560BD;
+		margin: 5% 0% 5% 15%;
+		transition-duration: 0.4s;
+		cursor: pointer;
+	}
+
+#sub-judul1 select:hover
+	{
+		background-color: #FF8F27;
+		border-radius: 10px;
+	}
+
+#sub-judul2 select
+	{
+		color: #f5f5f5;
+		font-family: "Quicksand", sans-serif;
+		font-weight: 700;
+		font-size: 20px;
+		margin-left: 50px;
+		padding: 10px 10px;
+		border: 0px;
+		background-color: #1560BD;
+		margin: 5% 0% 5% 15%;
+		transition-duration: 0.4s;
+		cursor: pointer;
+	}
+
+#sub-judul2 select:hover
+	{
+		background-color: #FF8F27;
+		border-radius: 10px;
+	}
+
+.col-md-3
+	{
+		margin: 0% 2%;
+	}
+
+.button
+	{
+		padding: 1% 8%;
+		border: 0px;
+		font-family: "Quicksand", sans-serif;
+		font-weight: 600;
+		font-size: 18px;
+		color: #f5f5f5;
+		background-color: #FF8F27;
+		border-radius: 10px;
+		margin-top: 4%;
+	}
+
+.button:hover
+	{
+		background-color: #EA7912;
+		transition-duration: 0.4s;
+	}
+
+.logo
+	{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		margin-top: 5%;
+		margin-bottom: 5%;
+	}
+
+.logo img
+	{
+		width: 25px;
+		margin: 0px 20px;
+	}
+
+#logo4
+	{
+		margin-top: 50px;
+	}
+
+.modal-header
+	{
+		margin-bottom: 2%;
+	}
+
+.modal-body
+	{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-family: Quicksand, sans-serif;
+		margin-top: 2%;
+	}
+
+.modal-text
+	{
+		font-family: Quicksand, sans-serif;
+		margin-top: 2%;
+		margin-bottom: 2%;
+		text-align: center;
+		width: 95%;
+	}
+
+#Judul3
+	{
+		padding-left: 8%;
+		padding-top: 8%;
+	}
+
+#Judul3 p
+	{
+		font-family: Quicksand, sans-serif;
+		color: #f5f5f5;
+		width: 75%;
+		font-weight: 500;
+	}
+
+.logo1
+	{
+		display: flex;
+		margin: 15% 0% ;
+	}
+
+.logo1 img
+	{
+		width: 20px;
+		margin-right: 60px;
+	}
+
+#sub-judul3
+	{
+		font-family: Quicksand, sans-serif;
+		color: #f5f5f5;
+		font-weight: 300;
+		padding-right: 8%;
+		padding-top: 13%;
+	}
+
+#footer
+	{
+		padding: 5% 10%;
+	}
+
+#Judul4 p
+	{
+		font-family: Quicksand, sans-serif;
+	}
+
+.navbar-foot a
+	{
+		margin: 0% 6%;
+		text-decoration: none;
+		color: #333333;
+		font-family: Quicksand, sans-serif;
+		font-size: 20px;
+		font-weight: 500;
+	}
+
+.navbar-foot a:hover
+	{
+		font-weight: 700;
+		color: #FF8F27;
+		transition-duration: 0.4s;
+	}
+
+.logo2
+	{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		margin-top: 5%;
+	}
+
+.logo2 img
+	{
+		width: 20px;
+		margin: 0px 20px;
+	}
+
+#berita
+	{
+		font-family: Quicksand, sans-serif;
+		color: #333333;
+	}
+
+#berita h
+	{
+		font-weight: 400;
+		font-size: 13px;]	
+	}
+
+#berita h5
+	{
+		margin-top: 10%;
+		font-weight: 700;
+	}
+
+#berita p
+	{
+		font-size: 13px;
+		font-weight: 400;
+		margin-top: 10%;
+	}
+
+#berita h1
+	{
+		text-align: right;
+		font-family: Quicksand, sans-serif;
+		color: #f5f5f5;
+		font-weight: 700;
+		margin-bottom: 8%;
+	}
+
+#berita .card-warpper
+	{
+		display: flex;
+	}
+
+#berita .card
+	{
+		margin: 0 .5em;
+		border: 0px solid;
+		height: 400px;
+	}
+
+#berita .card a
+	{
+		margin-left: 80%;
+	}

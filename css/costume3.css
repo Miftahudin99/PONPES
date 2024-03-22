@@ -1,0 +1,134 @@
+body 
+	{
+		font-family: "Quicksand", sans-serif;
+	}
+
+.navbar
+	{
+		
+		background-color: #1560BD;
+		padding: 40px 0px;
+	}
+
+img 
+	{
+		width: 180px;
+	}
+
+ul
+	{
+		margin-left: 30%;
+	}
+
+li
+	{
+		padding: 0px 60px;
+	}
+
+a:link
+	{
+		text-decoration: none;
+	}
+
+a 
+	{
+		color: #85AAD9;
+		font-family: "Quicksand", sans-serif;
+		font-weight: 600;
+		font-size: 18px;
+		transition-duration: 0.4s;
+	}
+
+a:hover
+	{
+		color: #FF8F27;
+	}
+
+/* Background color pada tombol accordion saat diklik */
+.accordion-button:not(.collapsed) {
+    box-shadow: none;
+    font-weight: 700;
+	color: #333333;
+	background-color: #FF8F27;
+}
+
+.accordion-button
+	{
+		font-weight: 500;
+	}
+
+.accordion-flush
+	{
+		margin-left: 5%;
+		margin-right: 5%;
+	}
+
+.judul
+	{
+		margin-top: 5%;
+		color: #333333;
+		font-weight: 300;
+		font-size: 40px;
+		text-align: right;
+		margin-left: 43%;
+	}
+
+.sub-judul1
+	{
+		margin-top: 1%;
+		margin-bottom: 6%;
+	}
+
+.sub-judul
+	{
+		margin-top: 7%;
+		padding: 0% 5%;
+	}
+
+.link-web:hover
+	{
+		filter: brightness(1.2);
+    	transition: filter 0.3s ease;
+	}
+
+#footer
+	{
+		padding: 5% 10%;
+	}
+
+#Judul4 p
+	{
+		font-family: Quicksand, sans-serif;
+	}
+
+.navbar-foot a
+	{
+		margin: 0% 6%;
+		text-decoration: none;
+		color: #333333;
+		font-family: Quicksand, sans-serif;
+		font-size: 20px;
+		font-weight: 500;
+	}
+
+.navbar-foot a:hover
+	{
+		font-weight: 700;
+		color: #FF8F27;
+		transition-duration: 0.4s;
+	}
+
+.logo2
+	{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		margin-top: 5%;
+		margin-bottom: 5%;
+	}
+
+.logo2 img
+	{
+		width: 20px;
+		margin: 0px 20px;
+	}

@@ -1,0 +1,181 @@
+body
+	{
+		background-color: #f5f5f5;
+		font-family: "Quicksand", sans-serif;
+	}
+
+.side-nav
+	{
+		height: 100%;
+		width: 260px;
+		position: fixed;
+		z-index: 1;
+		top: 0;
+		left: 0;
+		overflow-x: hidden;
+		background-color: #f5f5f5;
+	}
+
+.nav-bar img
+	{
+		width: 70%;
+		padding: 30% 0%;
+	}
+
+.nav-bar
+	{
+		margin-top: 4%;
+		margin-left: 4%;
+		margin-right: 4%;
+		height: 97%;
+		background-color: #1560BD;
+		border-radius: 6px;
+	}
+
+.link-nav
+	{
+		margin-top: 45%;
+		margin-bottom: 40%;
+	}
+
+.link-nav a
+	{
+		margin: 5% 8%;
+		text-decoration: none;
+	  	font-size: 15px;
+	 	color: #f5f5f5;
+	  	display: block;
+	}
+
+.link-nav a:hover
+	{
+		color: #FF8F27;
+		font-weight: 600;
+		transition-duration: 0.4s;
+	}
+
+.btn-back
+	{
+		margin-left: 8%;
+		margin-right: 8%;
+	}
+
+.btn-back button
+	{
+		width: 100%;
+		border: 0px;
+		padding: 2% 0%;
+		border-radius: 5px;
+		background-color: #FF8F27;
+		margin-top: 40%;
+	}
+
+.btn-back button:hover
+	{
+		background-color: #EA7912;
+		transition-duration: 0.4s;
+	}
+
+.btn-back button a
+	{
+		text-decoration: none;
+		color: #f5f5f5;
+		font-weight: 500;
+	}
+
+.main 
+	{
+  		margin-left: 260px;
+	}
+
+.main h3
+	{
+		color: #333333;
+		font-weight: 700;
+		margin-top: 7%;
+	}
+
+#button
+	{
+		margin-top: 2%;
+	}
+
+
+.form-label
+	{
+		font-weight: 500;
+		color: #333333;
+	}
+
+.modal-body
+	{
+		color: #333333;
+		margin: 6% 5%;
+	}
+
+.modal-sub h4
+	{
+		font-weight: 700;
+		color: #333333;
+		text-align: center;
+		margin: 5% 25%;
+	}
+
+.modal-body .btn
+	{
+		width: 100%;
+		margin-top: 4%;
+		background-color: #FF8F27;
+		color: #f5f5f5;
+	}
+
+.modal-body .btn:hover
+	{
+		background-color: #EA7912;
+		transition-duration: 0.4s;
+	}
+
+table
+	{
+		margin-top: 3%;
+		font-weight: 500;
+		color: #333333;
+	}
+
+table, tbody, thead
+	{
+		border: 1px solid #333333;
+		font-size: 13px;
+	}
+
+thead
+	{
+		text-align: center;
+	}
+
+#opsi a
+	{
+		text-decoration: none;
+		font-weight: 500;
+		margin: 0px 5px;
+	}
+
+#opsi a:hover
+	{
+		color: #FF8F27;
+	}
+
+.modal-body
+	{
+		color: #333333;
+	}
+
+.modal-header
+	{
+		color: #333333;
+	}
+
+#btn-updt
+	{
+		margin-bottom: 8%;
+	}
